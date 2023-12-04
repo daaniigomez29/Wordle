@@ -8,15 +8,16 @@
 
     <LinearLayout
         android:id="@+id/linearLayout6"
-        android:layout_width="303dp"
-        android:layout_height="43dp"
+        android:layout_width="305dp"
+        android:layout_height="56dp"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.555"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.565">
+        app:layout_constraintVertical_bias="0.565"
+        >
 
         <TextView
             android:id="@+id/textView26"
@@ -24,8 +25,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="L"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView27"
@@ -33,8 +35,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="E"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView28"
@@ -42,8 +45,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="T"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView29"
@@ -51,8 +55,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="R"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView30"
@@ -60,8 +65,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="A"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
     </LinearLayout>
 
     <LinearLayout
@@ -74,7 +80,8 @@
         app:layout_constraintHorizontal_bias="0.555"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.404">
+        app:layout_constraintVertical_bias="0.404"
+        >
 
         <TextView
             android:id="@+id/textView16"
@@ -82,8 +89,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="L"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView17"
@@ -91,8 +99,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="E"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView18"
@@ -100,8 +109,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="T"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView19"
@@ -109,8 +119,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="R"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView20"
@@ -118,8 +129,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="A"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
     </LinearLayout>
 
     <LinearLayout
@@ -140,8 +152,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="L"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView22"
@@ -149,8 +162,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="E"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView23"
@@ -158,8 +172,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="T"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView24"
@@ -167,8 +182,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="R"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView25"
@@ -176,8 +192,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="A"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
     </LinearLayout>
 
     <LinearLayout
@@ -198,8 +215,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="L"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView12"
@@ -207,8 +225,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="E"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView13"
@@ -216,8 +235,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="T"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView14"
@@ -225,8 +245,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="R"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView15"
@@ -234,8 +255,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="A"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
     </LinearLayout>
 
     <LinearLayout
@@ -256,8 +278,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="L"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView7"
@@ -265,8 +288,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="E"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView8"
@@ -274,8 +298,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="T"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView9"
@@ -283,8 +308,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="R"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView10"
@@ -292,8 +318,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="A"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
     </LinearLayout>
 
     <LinearLayout
@@ -314,8 +341,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="L"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView2"
@@ -323,8 +351,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="E"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView3"
@@ -332,8 +361,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="T"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView4"
@@ -341,8 +371,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="R"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
 
         <TextView
             android:id="@+id/textView5"
@@ -350,8 +381,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:text="A"
-            android:textAlignment="center" />
+            android:text=""
+            android:textAlignment="center"
+            android:background="@drawable/border"/>
     </LinearLayout>
 
     <EditText
@@ -360,7 +392,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Escribir palabra"
+        android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
